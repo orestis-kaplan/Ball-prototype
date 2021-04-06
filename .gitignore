@@ -3,7 +3,8 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
-Assets/AssetStoreTools*
+./New Unity Project/Logs/
+./New Unity Project/Assets/AssetStoreTools*
 
 # Visual Studio cache directory
 .vs/
